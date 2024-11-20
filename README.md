@@ -1,16 +1,11 @@
-# bhagavad_gita
+![splashscreen](https://github.com/user-attachments/assets/730288e5-4587-4786-bb7d-108fb3be24f2)
+![drawer](https://github.com/user-attachments/assets/e58a1190-7392-417e-98ef-d327f102832d)
+![english](https://github.com/user-attachments/assets/a0772738-e653-42e0-aaed-51984a2806f2)
+![englishdetail](https://github.com/user-attachments/assets/f553ac1f-79b8-4d3a-af8d-e09a3c1ce8aa)
+![Hindi](https://github.com/user-attachments/assets/abd8bf6d-0a11-407c-9ed5-805035b4c9fa)
+![hingidetail](https://github.com/user-attachments/assets/a68a550f-ca40-4469-8a7d-54a5a1d387a6)
+![gujrati](https://github.com/user-attachments/assets/3dce9c89-09ac-45c7-8261-a5466cb34fdc)
+![gujratidetail](https://github.com/user-attachments/assets/27ec0c92-a23b-45fe-801e-21c92558c37f)
+![fovoritesemty](https://github.com/user-attachments/assets/7a5c2616-24ee-4d7f-acd3-fe615b5536ad)
+![remove](https://github.com/user-attachments/assets/b1b7312b-f435-4400-9cf0-548c95945921)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
